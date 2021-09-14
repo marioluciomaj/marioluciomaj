@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioluciomaj&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="maj-castlevania" height=154px width=271px src="http://4.bp.blogspot.com/-Iv1GLjlmvFQ/VQmCgVL3LwI/AAAAAAAANyM/8GjudOBpXQE/s1600/Ryu%2B9.gif">
+  <img align="center" alt="maj-castlevania" height=140px width=250px src="http://4.bp.blogspot.com/-Iv1GLjlmvFQ/VQmCgVL3LwI/AAAAAAAANyM/8GjudOBpXQE/s1600/Ryu%2B9.gif">
   <img align="center" alt="maj-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="maj-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="maj-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
