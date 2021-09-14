@@ -1,4 +1,5 @@
-### Hi there 👋
+### ” A arte de programar consiste em organizar e dominar a complexidade. ”
+### Edsger W. Dijkstra 👋
 
 <div>
   <a href="https://github.com/marioluciomaj">
