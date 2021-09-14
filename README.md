@@ -1,4 +1,4 @@
-### ” A arte de programar consiste em organizar e dominar a complexidade. ” Edsger W. Dijkstra 
+### ” A arte de programar consiste em organizar e dominar a complexidade. ” <em>Edsger W. Dijkstra.</em> 
 
 <div>
   <a href="https://github.com/marioluciomaj">
